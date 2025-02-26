@@ -30,7 +30,7 @@ Hoy quiero compartir con ustedes un documento en Jupyter Notebook totalmente sob
 🔹 Uso de DataFrames internos desde Seaborn.
 
 🔹 Código listo para ejecutar en Jupyter Notebook
-.
+
 🔹 Ejemplos básicos y avanzados para cada tipo de gráfico.
 
 📝 ¿Para quién es?
